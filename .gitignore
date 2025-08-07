@@ -1,5 +1,6 @@
 # Configuration
 .vscode
+.env
 
 # Others
 __pycache__
