@@ -2,5 +2,9 @@
 .vscode
 .env
 
+# Database
+*.db
+db.*
+
 # Others
 __pycache__
