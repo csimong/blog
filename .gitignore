@@ -6,5 +6,8 @@
 *.db
 db.*
 
+# Migrations
+main/migrations
+
 # Others
 __pycache__
